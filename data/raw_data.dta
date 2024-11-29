@@ -6,14 +6,9 @@ This repository contains datasets and code for time-series regression analysis i
 
 ## Getting Started
 1. Download the dataset: `Workshops dataset.xlsx`.
-2. Load the dataset into Stata or another statistical software.
-3. Use the provided code examples (coming soon) for regression analysis.
+2. Load the dataset into Stata.
+3. Follow the coding instructions as per the 'README.md' file.
 
-## Analysis Topics
-- Time-series data preparation
-- Regression modeling
-- Hypothesis testing
-- Statistical inference
 
 ## How to Use
 This dataset can be loaded into Stata with the following command:
