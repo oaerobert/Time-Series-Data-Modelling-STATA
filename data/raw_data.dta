@@ -2,17 +2,20 @@
 This repository contains datasets and code for time-series regression analysis in Stata. The files here support econometric modeling and analysis for coursework and research purposes.
 
 ## Contents
-- **`Workshops dataset.xlsx`**: The raw, untransformed (no logarithms) dataset used for time-series analysis.
-- ** The independent variables should include: year, income, prices, longterminterestrates. The dependent variable is consumption.
+- **`Workshops dataset.xlsx`**: Dataset used for time-series analysis. Includes variables for econometric modeling and practical exercises.
 
 ## Getting Started
-1. Download the dataset: `Workshops dataset.xlsx`. Save this into your computer.
-2. Load the dataset into Stata.
-3. Follow the coding instructions as per the 'README.md' file.
+1. Download the dataset: `Workshops dataset.xlsx`.
+2. Load the dataset into Stata or another statistical software.
+3. Use the provided code examples (coming soon) for regression analysis.
 
+## Analysis Topics
+- Time-series data preparation
+- Regression modeling
+- Hypothesis testing
+- Statistical inference
 
 ## How to Use
 This dataset can be loaded into Stata with the following command:
 ```stata
-file, import, excel spreadsheet, browse "Workshops dataset.xlsx", import first row as variable names.
-
+import excel "Workshops dataset.xlsx", sheet("Sheet1") firstrow clear
