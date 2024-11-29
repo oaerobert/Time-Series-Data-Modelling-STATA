@@ -59,5 +59,5 @@ The purpose of this project is to:
 This project uses:
 - **STATA** for data analysis and visualization.
 - Econometric techniques to evaluate the Keynesian consumption function and assess the validity of classical regression assumptions.
-- Simply follow the folders, starting with 'data' to perform this time-series-modelling.
+- Simply follow the folders, starting with 'datasets' to perform this time-series-modelling for yourself! 
 
