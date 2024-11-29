@@ -2,7 +2,7 @@
 This repository contains datasets and code for time-series regression analysis in Stata. The files here support econometric modeling and analysis for coursework and research purposes.
 
 ## Contents
-- **`Workshops dataset.xlsx`**: The raw, untransformed (no logarithms) Dataset used for time-series analysis.
+- **`Workshops dataset.xlsx`**: The raw, untransformed (no logarithms) dataset used for time-series analysis.
 - ** The independent variables should include: year, income, prices, longterminterestrates. The dependent variable is consumption.
 
 ## Getting Started
