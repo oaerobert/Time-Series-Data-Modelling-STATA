@@ -36,3 +36,19 @@ To streamline future usage, save the imported dataset in Stata format:
    ```stata
    save "data/workshop_data.dta", replace
 
+---
+
+### Step 4: Begin to execute the '.do' files within 'scripts/' and get modelling!
+1. Once you have downloaded the datasets and are ready to start writing out the necessary code, open your choice of '.do' file within the 'scripts/' directory. I reccommend working through the code in order of the 'README.md' file within this repository.
+2. There are **four** different '.do' files (in order):
+   - '1_explanatory_data_analysis.do'
+   - '2_regression_analysis.do'
+   - '3_data_transformation.do'
+   - '4_testing_assumptions.do'
+3. Navigate the do file of choice, press 'Raw' button to view plain code.
+4. Select all the text using 'Ctrl+A' for Windows, or alternatively, 'Cmd+A' for Mac.
+5. Paste into Stata's **Do-file Editor** by pasting the text - 'Ctrl+V' for Windows, or 'Cmd+V' for Mac.
+6. Save the file as you wish, or keep the name consistent. It is up to you.
+7. Click 'Run' (right-facing arrow) in the Do-file Editor Toolbar.
+   
+
