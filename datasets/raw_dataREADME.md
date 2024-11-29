@@ -35,3 +35,4 @@ To streamline future usage, save the imported dataset in Stata format:
 1. In the command window, type:
    ```stata
    save "data/workshop_data.dta", replace
+
