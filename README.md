@@ -1,5 +1,5 @@
-# Regression Analysis 🦋
-This repository contains my econometrics work conducted using **STATA**, I've specialised my efforts on the Keynesian Consumption Function. The dataset consists of annual data from the UK for the period **1960 to 2021**, with variables such as:
+# Regression Analysis 📈
+Hi! This repository contains my econometrics work conducted using **STATA**, I've specialised my efforts on the Keynesian Consumption Function. The dataset consists of annual data from the UK for the period **1960 to 2021**, with variables such as:
 
 - Final consumption expenditure
 - Disposable income
