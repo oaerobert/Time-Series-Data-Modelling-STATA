@@ -6,7 +6,7 @@ This repository contains datasets and code for time-series regression analysis i
 - ** The independent variables should include: year, income, prices, longterminterestrates. The dependent variable is consumption.
 
 ## Getting Started
-1. Download the dataset: `Workshops dataset.xlsx`.
+1. Download the dataset: `Workshops dataset.xlsx`. Save this into your computer.
 2. Load the dataset into Stata.
 3. Follow the coding instructions as per the 'README.md' file.
 
@@ -14,5 +14,5 @@ This repository contains datasets and code for time-series regression analysis i
 ## How to Use
 This dataset can be loaded into Stata with the following command:
 ```stata
-import excel "Workshops dataset.xlsx", sheet("Sheet1") firstrow clear
+file, import, excel spreadsheet, browse "Workshops dataset.xlsx", import first row as variable names.
 
