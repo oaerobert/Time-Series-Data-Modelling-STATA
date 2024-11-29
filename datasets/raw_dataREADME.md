@@ -41,10 +41,11 @@ To streamline future usage, save the imported dataset in Stata format:
 ### Step 4: Begin to execute the '.do' files within 'scripts/' and get modelling!
 1. Once you have downloaded the datasets and are ready to start writing out the necessary code, open your choice of `.do` file within the `scripts` directory. I reccommend working through the code in order of the `README.md` file within this repository.
 2. There are **four** different files within `scripts`:
-   - `1_explanatory_data_analysis.do`
-   - `2_regression_analysis.do`
-   - `3_data_transformation.do`
-   - `4_testing_assumptions.do`
-3. Work your way down each file within this directory. Each file has a set of instructions that will enable you to carry out the necessary statistical modelling. Start with the `1_explanatory_data_analysis.do` file within `scripts`: complete this first, and then move onto the next (`2_regression_analysis.do` etc. etc.)
+   - `1_explanatory_data_analysis`
+   - `2_regression_analysis`
+   - `3_data_transformation`
+   - `4_testing_assumptions`
+3. Work your way down each file within this directory. Each file has a set of instructions that will enable you to carry out the necessary statistical modelling. Start with the `1_explanatory_data_analysis` file within `scripts`: complete this first, and then move onto the next (`2_regression_analysis.` etc. etc.)
+4. By the end of this, you will effectively evaluate time-series data using **Stata**
 
 
