@@ -1,12 +1,12 @@
 # Regression Analysis 🦋
-This repository contains my econometrics work conducted using **STATA**, focusing on analyzing the Keynesian consumption function. The dataset consists of annual data from the UK for the period **1960 to 2021**, with variables such as:
+This repository contains my econometrics work conducted using **STATA**, I've specialised my efforts on the Keynesian Consumption Function. The dataset consists of annual data from the UK for the period **1960 to 2021**, with variables such as:
 
 - Final consumption expenditure
 - Disposable income
 - Prices
 - Interest rates
 
-This is **time series data**, and the analysis aims to explore and demonstrate statistical techniques and tests used in econometrics.
+This is **time series data**, and the analysis aims to explore and demonstrate statistical techniques and tests used in my econometric classes.
 
 ---
 
@@ -14,7 +14,7 @@ This is **time series data**, and the analysis aims to explore and demonstrate s
 
 ### 1. **Exploratory Data Analysis (EDA)**
    - Derive summary statistics to describe the dataset numerically.
-   - Plot scatter and line graphs to visualize the data and explore relationships between variables.
+   - Plot scatter and line graphs to visualise the data, and then explore any relationships between variables.
    - Demonstrate correlation numerically through summary statistics.
 
 ### 2. **Regression Analysis**
@@ -61,6 +61,3 @@ This project uses:
 - Econometric techniques to evaluate the Keynesian consumption function and assess the validity of classical regression assumptions.
 - Simply follow the folders, starting with 'data' to perform this time-series-modelling.
 
----
-
-Feel free to clone, explore, and provide feedback or suggestions for further improvements. This repository is a demonstration of econometric concepts and their application to real-world data.
