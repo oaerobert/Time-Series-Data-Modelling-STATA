@@ -45,10 +45,12 @@ To streamline future usage, save the imported dataset in Stata format:
    - `2_regression_analysis.do`
    - `3_data_transformation.do`
    - `4_testing_assumptions.do`
-3. Navigate the do file of choice, press 'Raw' button to view plain code.
+3. Navigate the do file of choice, press `Raw` button to view plain code.
 4. Select all the text using `Ctrl+A` for Windows, or alternatively, `Cmd+A` for Mac.
 5. Paste into Stata's **Do-file Editor** by pasting the text - `Ctrl+V` for Windows, or `Cmd+V` for Mac.
 6. Save the file as you wish, or keep the name consistent. It is up to you.
-7. Click `Run` (right-facing arrow) in the Do-file Editor Toolbar.
+7. Interpret and understand the modelled data.
+
+---
    
 
