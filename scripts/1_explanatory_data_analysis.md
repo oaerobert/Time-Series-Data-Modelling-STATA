@@ -21,7 +21,8 @@ By the end of this file, I am completely certain you will be able to:
    sum consumption income
     ```
 3. The `sum` function is used before any of our independent variables (in this case, `consumption` and `income`) to calculate this. Note: this can be interchanged with any other variables within the dataset!
-4. Your summary statistic should look something like this: [View Summary Statistics] (scripts/Images_EDA/Summary_Statistics_EDA/)
+4. Your summary statistic should look something like this: [View Summary Statistics](scripts/Images_EDA/Summary_Statistics_EDA/)
+
 
 
 ✅ Well Done! You have learnt how to calculate a summary statistic 👍
