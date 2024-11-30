@@ -48,4 +48,4 @@ By the end of this file, I am completely certain you will be able to:
 3. In essence, `twoway` is the function that produces the line graph. `line consumption year` is the line corresponding to `consumption` measured across a yearly basis (hence, `year`). The same can be said for our `income` variable.
 4. Save and `Execute` as per and you should get this: [View](Images_EDA/Line_Graph_EDA.png)
 
-###### As you can see, the lines follow each other closely. Using your understanding of regression analysis - don't you think this is suggested by the data correlation we coded earlier?
+#### As you can see, the lines follow each other closely. Using your understanding of regression analysis - don't you think this is suggested by the data correlation we coded earlier?
