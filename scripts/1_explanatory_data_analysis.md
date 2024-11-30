@@ -21,8 +21,15 @@ By the end of this file, I am completely certain you will be able to:
    sum consumption income
     ```
 3. The `sum` function is used before any of our independent variables (in this case, `consumption` and `income`) to calculate this. Note: this can be interchanged with any other variables within the dataset!
-4. Your summary statistic should look something like this: [Summary Statistics](Images_EDA/Summary_Statistics_EDA.png/)
+4. Save, and click `Execute`. View this in the main results window.
+5. Your summary statistic should look something like this: [Click Here](Images_EDA/Summary_Statistics_EDA.png/)
 
 
+### Bravo! Time to look at data correlation. 💡
+1. If you want to observe how two variable are correlated, we use:
+   ``` stata
+   pwcorr consumption income
+   ```
+2. This will show a correlation matrix, illustrating any correlations between variables.
+3. Like before, save and `Execute`. It will look like this: [Click Here](
 
-✅ Well Done! You have learnt how to calculate a summary statistic 👍
