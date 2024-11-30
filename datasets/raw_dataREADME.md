@@ -45,7 +45,11 @@ To streamline future usage, save the imported dataset in Stata format:
    - `2_regression_analysis`
    - `3_data_transformation`
    - `4_testing_assumptions`
-3. Work your way down each file within this directory. Each file has a set of instructions that will enable you to carry out the necessary statistical modelling. Start with the `1_explanatory_data_analysis` file within `scripts`: complete this first, and then move onto the next (`2_regression_analysis.` etc. etc.)
-4. By the end of this, you will effectively evaluate time-series data using **Stata**
+3. Work your way down each file within this directory. Each file has a set of instructions that will enable you to carry out the necessary statistical modelling.
+4. Within `scripts` directory, are several folders titled by "Images_XYZ" which shows images of what your data should look like based on the intials of each file in `scripts`.
+   - If that sounds confusing, don't worry! Any images will be attached as a link to the appropriate section of each file for easy access.  😇
+6. Start with the `1_explanatory_data_analysis` file within `scripts`: complete this first, compare your statistical models using the links attached, and then move onto the next (`2_regression_analysis.` etc. etc.)
+   
+By the end of this, you will definitely be good at evaluating time-series data using **Stata**
 
 
