@@ -1,20 +1,22 @@
-## Regression Analysis 📈💫 
+Hello! 👋🏾
 
-This follows on from my second-year, econometrics work conducted using **STATA**.
-I've specialised this task to focus on the Keynesian Consumption Function since I most closely align with the theoretical principles of Keynesian Economics.
+This repository contains my most pivotal demonstration of time-series data modelling - it follows on from my second-year, econometrics work conducted using **STATA** where it's specialisation is on the Keynesian Consumption Function.
 
-Whilst we were tasked to carry out basic functions with knowledge from the first half of the semester (approx. October 2024), I expanded this task based on my completed knowledge of the Econometrics module as of December 2024, to further enhance statistical accuracy.
+Whilst we were tasked to carry out basic functions with knowledge from the first half of the semester (approx. October 2024), I expanded this task based on my completed knowledge of the Econometrics module as of December 2024, to further enhance statistical accuracy. I decided to create this project to represent my passion for how Econometrics can be used in real-world scenarios using real data.
 
-Therefore, I pose the question:
+My question will therefore be:
 
 ## What are the key determinants of consumption in the UK? An Econometric Study of Disposable Income, Prices, Interest Rates between 1960 and 2021. ###
 
+This project will employ time-series analysis to assess the relationships between the indepdent variables of disposable income, prices, interest rates and the dependent variable, consumption, between 1960 and 2021. 
+I will use data from the Office of National Statistics (ONS) and Bank of England - they are widely reliable for utilising standardised methodologies and being transparent within their data collection processes. Whilst riogourously standardised, their reliance on estimation techniques such as inflation-adjusted disposable income may create marginal measurement errors. Like every set of data, there is still potential for misspecification and bias, however, these sources are often used by researchers and policymakers, making it highly credible for econometric analysis despite these limitations.
+
+Here we will thoroughly explore the dataset using descriptive statistics, data visualisations, 
+
+I will thoroughly explore 
 
 
 
-
-
-💫 This is **time series data**, and this analysis will explore and demonstrate statistical techniques and tests used in my econometric classes. These methods will uncover patterns, assess relationships and forecast trends within the dataset.
 
 ---
 
