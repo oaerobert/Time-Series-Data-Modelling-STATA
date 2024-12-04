@@ -46,9 +46,13 @@ By the end of this file, I am completely certain you will be able to:
    twoway (line consumption year)(line income year)
    ```
 3. In essence, `twoway` is the function that produces the line graph. `line consumption year` is the line corresponding to `consumption` measured across a yearly basis (hence, `year`). The same can be said for our `income` variable.
-4. Save and `Execute` as per and you should get this: [View](Images_EDA/Scatter_Graph_EDA.png)
+4. Save and `Execute` as per and you should get this: [View](Images_EDA/Line_Graph_EDA.png)
 
 #### As you can see, the lines follow each other closely. 
 #### Using your understanding of regression analysis - don't you think this is suggested by the data correlation values we coded and discovered earlier?
 
-✅ Good job! 
+✅ Good job! Let's recreate something similar with a scatter graph
+
+``` stata
+scatter consumption income
+```
