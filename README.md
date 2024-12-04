@@ -33,7 +33,7 @@ And apply GLS to estimate, given ρ (our auto-correlation co-efficient) is known
 After, we can apply OLS to obtain co-efficients closest to their true values (given our sample size)
 
 #### Multicollinearity Amongst Indendent Variables:
-    - Disposable income, prices, interest rates etc. quite often are highly correlated and multi-collinear, affecting CLRA within OLS. We can identify this from contradictory t-statistics and R-squared values, alongside large standard errors. 
+- Disposable income, prices, interest rates etc. quite often are highly correlated and multi-collinear, affecting CLRA within OLS. We can identify this from contradictory t-statistics and R-squared values, alongside large standard errors. 
 This *can* be problematic (not always): we would be unable to isolate impacts of individual predictors on the dependent variable (in this context, consumption) - preventing us from understanding which of our indepedent variabes directly affect consumption and whether or not certain independent variables are at all relevant.
 We may often find variables are insignificant in affecting our dependent variable from the t-tests, yet contradictingly, observe signficance from the high R-squared values.
 
