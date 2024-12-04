@@ -67,16 +67,15 @@ scatter consumption income
 ```
 6. This will create a scatter graph for the variables `*consumption*` and `*income*`. Your graph will look like **this**: [Click Here](Images_EDA/Scatter_Graph_EDA.png)
    
-Presumptiously, the scatter graph produces a regression close to 1. This suggests that income (the independent variable) is **closely correlated** to consumption (our dependent variable).
+Presumptiously, the scatter graph produces a regression close to 1. This suggests that `income` is **closely correlated** to `consumption`.
 
-This is useful because:
-- It is consistent with economic theory - Keynesian Economics suggests that consumption is largely driven by disposable income.
+This is visualisation is useful, because:
+- It is consistent with economic theory - Keynesian Economics suggests that consumption is largely driven by disposable income. This graph visualises that expectation.
 - It visualises the predictive power of income on variation.
 - Policymakers can utilise this relationship to predict how changes in income may affect consumer spending.
-- In more general contexts, it can allow for the exploration of further statistical analysis.
+- In more general contexts, it can allow for the exploration of further statistical analysis by testing relationships between variables.
 
 ---
 
-
-
+## Well Done! You have successfully completed the first part of this project! 😄
 ---
