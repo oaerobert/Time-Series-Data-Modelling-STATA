@@ -25,6 +25,11 @@ By the end of this file, I am completely certain you will be able to:
 4. Save, and click `Execute`. View this in the main results window.
 5. Your summary statistic should look something like this: [Click Here](Images_EDA/Summary_Statistics_EDA.png/)
 
+This is useful because:
+- We can assess the scale and magnitude of variables
+- Detect any data quality issues
+- Inform us whether carrying out hypothesis testing is appropriate.
+  
 ---
 
 ### Bravo! Time to look at data correlation. 💡
@@ -54,13 +59,21 @@ By the end of this file, I am completely certain you will be able to:
 #### As you can see, the lines follow each other closely. 
 #### Using your understanding of regression analysis - don't you think this is suggested by the data correlation values we coded and discovered earlier?
 
-✅ Good job! Let's recreate something similar with a scatter graph.
+✅ Good job! Let's recreate something similar with a scatter graph. 📈
+5. Paste the following function into your do-file:
 
 ``` stata
 scatter consumption income
 ```
-5. This will create a scatter graph for the variables *consumption* and *income*. Your graph will look like this: [View](Images_EDA/Scatter_Graph_EDA.png)
-6. As you can see, these variables are closely correlated, the scatter graph produces a regression close to 1, assumed purely from observation. This suggests that income (the independent variable) is closely correlated to consumption (our dependent variable).
+6. This will create a scatter graph for the variables `*consumption*` and `*income*`. Your graph will look like **this**: [Click Here](Images_EDA/Scatter_Graph_EDA.png)
+   
+Presumptiously, the scatter graph produces a regression close to 1. This suggests that income (the independent variable) is **closely correlated** to consumption (our dependent variable).
+
+This is useful because:
+- It is consistent with economic theory - Keynesian Economics suggests that consumption is largely driven by disposable income.
+- It visualises the predictive power of income on variation.
+- Policymakers can utilise this relationship to predict how changes in income may affect consumer spending.
+- In more general contexts, it can allow for the exploration of further statistical analysis.
 
 ---
 
