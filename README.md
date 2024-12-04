@@ -7,7 +7,7 @@ Whilst we were tasked to carry out basic functions with knowledge from the first
 
 Therefore, I pose the question:
 
-# What are the key determinants of consumption in the UK? An Econometric Study of Disposable Income, Prices, Interest Rates between 1960 and 2021. #
+## What are the key determinants of consumption in the UK? An Econometric Study of Disposable Income, Prices, Interest Rates between 1960 and 2021. ###
 
 
 
