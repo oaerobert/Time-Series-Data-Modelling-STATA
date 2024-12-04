@@ -56,3 +56,4 @@ By the end of this file, I am completely certain you will be able to:
 ``` stata
 scatter consumption income
 ```
+5. This will create a scatter graph for the variables *consumption* and *income*. Your graph will look like this: [View](Images_EDA/Scatter_Graph_EDA.png)
