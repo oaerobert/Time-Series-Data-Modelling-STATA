@@ -2,7 +2,7 @@
 By the end of this file, I am completely certain you will be able to:
   - ✅ Derive summary statistics to describe the dataset numerically.
   - ✅ Plot scatter and line graphs to visualise the data, and then explore any relationships between variables.
-  - ✅ Demonstrate correlation numerically through summary statistics.
+
 
 ---
 
