@@ -8,8 +8,14 @@ My question will therefore be:
 
 ## What are the key determinants of consumption in the UK? An Econometric Study of Disposable Income, Prices, Interest Rates between 1960 and 2021. ###
 
-This project will employ time-series analysis to assess the relationships between the indepdent variables of disposable income, prices, interest rates and the dependent variable, consumption, between 1960 and 2021. 
-I will use data from the Office of National Statistics (ONS) and Bank of England - they are widely reliable for utilising standardised methodologies and being transparent within their data collection processes. Whilst riogourously standardised, their reliance on estimation techniques such as inflation-adjusted disposable income may create marginal measurement errors. Like every set of data, there is still potential for misspecification and bias, however, these sources are often used by researchers and policymakers, making it highly credible for econometric analysis despite these limitations.
+**Abstract:**
+
+This project will employ time-series analysis to assess the relationships between the independent variables of disposable income, prices, interest rates and the dependent variable, consumption, between 1960 and 2021. Time series is particularly useful as one can observe trends over time, 
+I will use data from the Office of National Statistics (ONS) and Bank of England - they are widely reliable for utilising standardised methodologies and being transparent within their data collection processes. Whilst rigorously standardised, their reliance on estimation techniques such as inflation-adjusted disposable income may create measurement errors. Due to human error within data collection, there exists the potentiality of misspecification and bias. Despite these limitations, these sources are often used by researchers and policymakers, frequently used for econometric analysis due to their credibility. 
+
+Why is time-series analysis particularly suitable for this research question?
+
+How will you address or mitigate the limitations (e.g., measurement error, misspecification) in your analysis?
 
 Here we will thoroughly explore the dataset using descriptive statistics, data visualisations, 
 
