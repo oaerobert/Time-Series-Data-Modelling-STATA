@@ -25,6 +25,7 @@ By the end of this file, I am completely certain you will be able to:
 4. Save, and click `Execute`. View this in the main results window.
 5. Your summary statistic should look something like this: [Click Here](Images_EDA/Summary_Statistics_EDA.png/)
 
+---
 
 ### Bravo! Time to look at data correlation. 💡
 1. If you want to observe how two variables are correlated, we use:
@@ -37,6 +38,8 @@ By the end of this file, I am completely certain you will be able to:
 4. Like before, click save and `Execute`. It will look like this: [Click Here](Images_EDA/Correlation_Matrix_EDA.png)
 
 ✅ You have successfully observed any correlation between variables.
+
+---
 
 ### Let's get to plotting scatter and line graphs. 💻
 1. Data Visualisation allows us to simplify very compelx data, and make it much easier to understand - we are going to look at plotting scatter and line graphs using our dataset so we can observe any relationships between variables more clearly.
@@ -51,9 +54,16 @@ By the end of this file, I am completely certain you will be able to:
 #### As you can see, the lines follow each other closely. 
 #### Using your understanding of regression analysis - don't you think this is suggested by the data correlation values we coded and discovered earlier?
 
-✅ Good job! Let's recreate something similar with a scatter graph
+✅ Good job! Let's recreate something similar with a scatter graph.
 
 ``` stata
 scatter consumption income
 ```
 5. This will create a scatter graph for the variables *consumption* and *income*. Your graph will look like this: [View](Images_EDA/Scatter_Graph_EDA.png)
+6. As you can see, these variables are closely correlated, the scatter graph produces a regression close to 1, assumed purely from observation. This suggests that income (the independent variable) is closely correlated to consumption (our dependent variable).
+
+---
+
+
+
+---
