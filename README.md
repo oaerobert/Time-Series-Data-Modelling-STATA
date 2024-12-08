@@ -9,8 +9,6 @@ Whilst we were tasked to carry out basic functions with knowledge from the first
 **Abstract:**
 
 This project will employ time-series analysis to assess the relationships between the independent variables of disposable income, prices, interest rates and the dependent variable, consumption, between 1960 and 2021. 
-I will use data from the Office of National Statistics (ONS) and Bank of England - they are widely reliable for utilising standardised methodologies and being transparent within their data collection processes. Whilst rigorously standardised, their reliance on estimation techniques such as inflation-adjusted disposable income may create measurement errors. Due to human error within data collection, there exists the potentiality of misspecification and bias. Despite these limitations, these sources are often used by researchers and policymakers, frequently used for econometric analysis due to their credibility. 
-
 ---
 
 ## Key Objectives and Workflow
