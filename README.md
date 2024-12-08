@@ -4,10 +4,10 @@ This repository contains my most pivotal demonstration of time-series data model
 
 Whilst we were tasked to carry out basic functions with knowledge from the first half of the semester (approx. October 2024), I expanded this task based on my completed knowledge of the Econometrics module as of December 2024, to further enhance statistical accuracy. I decided to create this project to represent my passion for how Econometrics can be used in real-world scenarios using real data.
 
-## What are the key determinants of consumption in the UK? An Econometric Study of Disposable Income, Prices, Interest Rates between 1960 and 2021. ###
+### What are the key determinants of consumption in the UK? An Econometric Study of Disposable Income, Prices, Interest Rates between 1960 and 2021. ###
 
 This project will employ time-series analysis to assess the relationships between the independent variables of disposable income, prices, interest rates and the dependent variable, consumption, between 1960 and 2021. 
----
+
 
 ## Key Objectives and Workflow
 
