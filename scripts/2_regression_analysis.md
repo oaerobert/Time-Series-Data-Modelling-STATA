@@ -71,7 +71,7 @@ This will retrieve the residuals.
 
 Hint: Do not run the code yet - enter the next part I'm about to show you, then run it. 
 
-If you've already run it, don't worry 🤪. Simply remove this code from your `.do` file and run again, as **STATA** has already generated the variables (you can see this in the right hand side of the main area). Re-running it without deletion of the `retrieve` code for the next part will produce an error.
+If you've already run it, don't worry 🤪. Simply remove this code from your `.do` file and run again, as **STATA** has already generated the variables (you can see this in the right hand side of the main area). Re-running it without deletion of the `predict` code for the next part will produce an error.
 
 We've now created two new variables within **STATA**. These are `fitted_consumption` and `resids`. Let's plot this so we can visualise the data.
 
