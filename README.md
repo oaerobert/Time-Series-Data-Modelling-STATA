@@ -6,8 +6,6 @@ Whilst we were tasked to carry out basic functions with knowledge from the first
 
 ## What are the key determinants of consumption in the UK? An Econometric Study of Disposable Income, Prices, Interest Rates between 1960 and 2021. ###
 
-**Abstract:**
-
 This project will employ time-series analysis to assess the relationships between the independent variables of disposable income, prices, interest rates and the dependent variable, consumption, between 1960 and 2021. 
 ---
 
