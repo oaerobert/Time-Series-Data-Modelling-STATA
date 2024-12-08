@@ -56,8 +56,8 @@ Answers: 🎓
 
 ---
 
-### Visualising fitted values and line graphs:
-- Now, as econometricians we want to observe the fitted values of the dependent variable and their residuals. We do this because fitted values show how well our regression line matches the actual data. By plotting these against observed values, we can visually see how closely the model captures the relationship.
+### Visualising Fitted Values and Line Graphs: 😵‍💫
+- Now, as econometricians (you are one if you're completing this!) we want to observe the fitted values of the dependent variable and their residuals. We do this because fitted values show how well our regression line matches the actual data. By plotting these against observed values, we can visually see how closely the model captures the relationship.
 
 - We firstly need to generate two new variables, paste the following code into your `.do` file.
 ``` stata
@@ -79,12 +79,15 @@ We've now created two new variables within **STATA**. These are `fitted_consumpt
 twoway (line consumption year)(line fitted_consumption year)(line resids year)
 ```
 
-What this does is create three lines with year as our indendepent variable. One for consumption, one for fitted consumption and another for our residuals. 
+- What this does is create three lines with year as our indendepent variable. One for consumption, one for fitted consumption and another for our residuals. 
 
-Your graph should look like this: [Click Here]
+#### Your graph should look like this: [Click Here](Fitted_Consumption_Consumption_Resids_Line_Graph_RA.png)
 
-How do we interpret this? As you can see, our consumption 
-
+How do we interpret this? 
+  - As you can see, our consumption line is purple and represents the actual data for consumption over this time period. The 'linear predictions' blue line shows the values *predicted* by our regression model based on income. It closely follows our consumption data which tells us that this model estimated using OLS, fits our data very well. We would expect this, as our R squared value is very high. 🤯
+  - Our green line of residuals shows the differences between our observed values of consumption, and our linear predicted values. They show the part of variation in consumption which is NOT explained by income. This is relatively small and stable around zero, suggesting that the model caputures most of our variation very well.
+    
+## ✅ Well Done! You've completed this section!
 
 
 
