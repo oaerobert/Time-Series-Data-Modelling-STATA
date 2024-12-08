@@ -41,7 +41,7 @@ Answers: 🎓
    - $H_0: \beta_1 = 0$
    - $H_a: \beta_1 \neq 0$
    - This is a two-tailed test, so we must divide our significance level by 2, $0.025$.
-   - Our $d.f$ = $n - 1 = 62 - 2 = 60$. Our t-value is $2.000$ (using t-tables from Dr Ercolani - my lecturer - [here:](Statistical_Tables.pdf)).
+   - Our $d.f$ = $n - 1 = 62 - 2 = 60$. Our t-value is $2.000$ (using t-tables from Dr Ercolani - my lecturer [here](Statistical_Tables.pdf)).
    - Our t-statistic: $t = \frac{\hat{\beta}_1 - \beta_1}{SE(\hat{\beta}_1)}$ and then substitute our values accordingly: $t = \frac{0.936 - 0}{0.00889} = 105.23$
    - 105.2 > 2.0
    - From this, we can conclude that the slope parameter is indeed significant. There is sufficient evidence to reject the null hypothesis.
