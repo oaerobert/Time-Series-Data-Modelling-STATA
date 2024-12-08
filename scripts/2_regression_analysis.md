@@ -81,7 +81,7 @@ twoway (line consumption year)(line fitted_consumption year)(line resids year)
 
 - What this does is create three lines with year as our indendepent variable. One for consumption, one for fitted consumption and another for our residuals. 
 
-#### Your graph should look like this: [Click Here](Fitted_Consumption_Consumption_Resids_Line_Graph_RA.png)
+#### Your graph should look like this: [Click Here](Images_RA/Fitted_Consumption_Consumption_Resids_Line_Graph_RA.png)
 
 How do we interpret this? 
   - As you can see, our consumption line is purple and represents the actual data for consumption over this time period. The 'linear predictions' blue line shows the values *predicted* by our regression model based on income. It closely follows our consumption data which tells us that this model estimated using OLS, fits our data very well. We would expect this, as our R squared value is very high. 🤯
