@@ -39,6 +39,6 @@ Answers: 🎓
    - For example, we observe that for our independent variable of income, the t-value is `105.10`. From statistical testing knowledge, we know that this is significant since it is very large and we are highly likely to reject the null hypothesis. However we can confirm this from carrying out a t-test using standard errors as follows:
    - $H_0: \beta_1 = 0$
    - $H_a: \beta_1 \neq 0$
-   - This is a two-tailed test, so we must divide our significance level by 2 to determine the t value. D.f = n-1 = 61. Our t-value is 2.000 (using t-tables, from my lecturer's materials, [here:](Statisical_Tables.pdf)
+   - This is a two-tailed test, so we must divide our significance level by 2 to determine the t value. D.f = n-1 = 61. Our t-value is 2.000 (using t-tables, from my lecturer's materials, [here:](Statistical_Tables.pdf))
 
 
