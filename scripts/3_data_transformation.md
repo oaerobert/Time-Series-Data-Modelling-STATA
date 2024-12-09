@@ -3,6 +3,7 @@
 Here we are going to look at transforming the data we have been analysing into logarithms and carrying out regressions to perform hypothesis tests. We do this as econometricians to linearise the nonlinear pattern between consumption and income. This makes this model more appropriate for regression.
 
 By the end of this file, you shall:
+
 ✅ Transform data using logarithms for better intepretation.
 ✅ Visualise fitted consumption values and residuals using line graphs.
 
