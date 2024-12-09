@@ -96,3 +96,4 @@ reg lcons linc infl lintr
 *Hint:* The order beyond $lcons$ doesn't really matter! Mix and match it up as you wish! 🤭
 
 This would produce a regression such as the [following](Images_DT/Regression_multivariate_DT.png) into our **STATA** `.do` file.
+- What do these additional variables suggest? Are they significant, and of the correct sign? Do the goodness of fit suggest they are important to the regression?
