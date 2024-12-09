@@ -4,7 +4,8 @@ Here we are going to look at transforming the data we have been analysing into l
 
 By the end of this file, you shall:
 
-✅ Transform data using logarithms for better intepretation.
+✅ Transform data using logarithms for better intepretation. 
+
 ✅ Visualise fitted consumption values and residuals using line graphs.
 
 - ##### Create a `.do` file titled: 'Data Transformation'- save this as you go along whilst working on this project ☝🏾
@@ -82,9 +83,9 @@ This suggests we have insufficient evidence to reject our null hypothesis. There
 
 ---
 
-### Let's extend our model! 🥵
+### Step 3: Let's extend our model! 🥵
 
-Suppose we want to extend our model by including inflation and the log of interest rate as an additional regressor to give the following model:
+- Suppose we want to extend our model by including inflation and the log of interest rate as an additional regressor to give the following model:
 
 $lcons_t = \beta_0 + {\beta_1}linc_t + {\beta_2}infl_t + {\beta_3}lintr_t + {\epsilon}_t$
 
@@ -92,6 +93,6 @@ We would type into **STATA**:
 ``` stata
 reg lcons linc infl lintr
 ```
-Hint: The order beyond $lcons$ doesn't really matter! Mix and match it up as you wish! 🤭
+*Hint:* The order beyond $lcons$ doesn't really matter! Mix and match it up as you wish! 🤭
 
-This would produce a regression such as the [following](Images_DT/Regression_multivariate_DT.png)
+This would produce a regression such as the [following](Images_DT/Regression_multivariate_DT.png) into our **STATA** `.do` file.
