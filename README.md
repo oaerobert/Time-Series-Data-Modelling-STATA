@@ -1,6 +1,6 @@
 Hello! 👋🏾
 
-This repository contains my most pivotal demonstration of time-series data modelling - it follows on from my second-year, econometrics work conducted using **STATA** where it's specialisation is on the Keynesian Consumption Function.
+This repository contains my most pivotal demonstration of time-series data modelling - it follows on from my second-year econometrics work conducted using **STATA** where it's specialisation is on the Keynesian Consumption Function.
 
 Whilst we were tasked to carry out basic functions with knowledge from the first half of the semester (approx. October 2024), I expanded this task based on my completed knowledge of the Econometrics module as of December 2024, to further enhance statistical accuracy. I decided to create this project to represent my passion for how Econometrics can be used in real-world scenarios using real data.
 
